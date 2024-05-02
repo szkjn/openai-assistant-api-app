@@ -1,2 +1,1 @@
-# openai-assistant-api-app
-OpenAI Assistant API web app
+# OpenAI Assistant API Web App
